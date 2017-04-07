@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_button_home_move">170dp</dimen>
+    <dimen name="size_button_home_pick">277dp</dimen>
+    <dimen name="width_stroke_button_home">10dp</dimen>
+
+    <dimen name="interval_xlarge">32dp</dimen>
+    <dimen name="interval_xxlarge">40dp</dimen>
+
+    <dimen name="font_xxlarge">36sp</dimen>
+
+</resources>
